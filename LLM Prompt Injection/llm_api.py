@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "sk-c64c94d95fd948808b1d8895e6ad5c3d"
+API_KEY = "your API_KEY"
 URL = "https://api.deepseek.com/chat/completions"
 
 
@@ -30,5 +30,6 @@ def call_llm(messages):
 
         print("请求失败:", response.status_code)
         print(response.text)
+
 
         return None
