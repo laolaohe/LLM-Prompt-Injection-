@@ -1,6 +1,6 @@
 # LLM-Prompt-Injection-
 LLM Prompt Injection 实验平台
-项目简介![Uploading 微信图片_20240803143816.jpg…]()
+项目简介
 
 
 本项目旨在构建一个 大语言模型（LLM）Prompt Injection 攻击与防御实验平台，用于研究和演示大语言模型在面对各种 Prompt Injection 攻击时的安全性。
