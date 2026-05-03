@@ -1,5 +1,5 @@
 📝 项目简介
-LLM-Prompt-Space 是一个用于模拟、测试和防御大语言模型（LLM）提示词注入攻击的实验平台。本项目紧跟 OWASP Top 10 for LLM Applications 行业标准，重点针对 LLM01: Prompt Injection 风险，构建了一套多层级的“纵深防御（Defense-in-Depth）”体系。
+LLM-Prompt-Space 是一个用于模拟、测试和防御大语言模型（LLM）提示词注入攻击的实验平台。本项目紧跟 OWASP Top 10 for LLM Applications 行业标准，重点针对 LLM01: Prompt Injection 风险，构建了一套多层级的“纵深防御”体系。
 
 博客：https://blog.csdn.net/2301_80968137/article/details/159014150?spm=1001.2014.3001.5502
 
